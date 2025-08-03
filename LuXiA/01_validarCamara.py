@@ -1,3 +1,4 @@
+#import de prueba para github
 import time
 import threading
 import cv2 # Aunque no lo usemos para una cámara real en este ejemplo, es bueno mantenerlo si el propósito es ese.
